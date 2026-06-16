@@ -17,22 +17,28 @@ The project uses Linear Regression to analyze relationships between housing feat
 
 ## Dataset
 
-The project uses the California Housing Dataset.
+The project uses the Kaggle Housing Prices Dataset by Yasser H.
+
+The dataset contains real estate property features used to predict house prices.
 
 Features include:
 
-* Median Income
-* Housing Median Age
-* Average Rooms
-* Average Bedrooms
-* Population
-* Average Occupancy
-* Latitude
-* Longitude
+* Area (square footage of the house)
+* Number of bedrooms
+* Number of bathrooms
+* Number of stories
+* Main road access (yes/no)
+* Guest room availability (yes/no)
+* Basement availability (yes/no)
+* Hot water heating availability (yes/no)
+* Air conditioning availability (yes/no)
+* Number of parking spaces
+* Preferred area (yes/no)
+* Furnishing status (furnished / semi-furnished /unfurnished)
 
 Target Variable:
 
-* Median House Value
+* Price (house selling price)
 
 ## Technologies Used
 
